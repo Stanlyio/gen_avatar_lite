@@ -1,1 +1,0 @@
-# gen_avatar_lite
