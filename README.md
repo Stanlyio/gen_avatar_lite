@@ -28,3 +28,4 @@ This is a demo for creating an avatar with replicate
 - Run `npm install`
 - Run `npm run dev`
 - Visit the website on http://localhost:3000
+- 
